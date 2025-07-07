@@ -19,21 +19,3 @@
   </main>
 </body>
 </html>
-<!DOCTYPE html>
-<html lang="ka">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Allservisgeo</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="container">
-        <header>
-            <!-- თქვენი ლოგო, რომელიც სურათიდან იქნება ჩატვირთული -->
-            <img src="logo.png" alt="Tavadze Corporation Logo" class="logo">
-        </header>
-    </div>
-</body>
-</html>
